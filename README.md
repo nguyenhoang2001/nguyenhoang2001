@@ -29,29 +29,49 @@ I'm an **AI & Software Engineer** based in Ho Chi Minh City, Vietnam — focused
 
 ## 🛠️ Tech Stack
 
-**AI / ML**
+**🧠 AI / ML**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+<p align="left">
+  <a href="https://www.python.org/"><img width="48px" src="https://skillicons.dev/icons?i=python" alt="Python" /></a>&nbsp;
+  <a href="https://pytorch.org/"><img width="48px" src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>&nbsp;
+  <a href="https://www.tensorflow.org/"><img width="48px" src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a>&nbsp;
+  <a href="https://scikit-learn.org/"><img width="48px" src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" /></a>&nbsp;
+  <a href="https://opencv.org/"><img width="48px" src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" /></a>&nbsp;
+  <a href="https://fastapi.tiangolo.com/"><img width="48px" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
+</p>
 
-**Backend & Cloud**
+**🔧 Frameworks & Tools**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+<p align="left">
+  <a href="https://www.docker.com/"><img width="48px" src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>&nbsp;
+  <a href="https://git-scm.com/"><img width="48px" src="https://skillicons.dev/icons?i=git" alt="Git" /></a>&nbsp;
+  <a href="https://www.linux.org/"><img width="48px" src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>&nbsp;
+  <a href="https://code.visualstudio.com/"><img width="48px" src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /></a>&nbsp;
+  <a href="https://github.com/"><img width="48px" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.gnu.org/software/bash/"><img width="48px" src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+</p>
 
-**Languages**
+**☁️ Cloud & Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+<p align="left">
+  <a href="https://aws.amazon.com/"><img width="48px" src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>&nbsp;
+  <a href="https://nginx.org/"><img width="48px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>&nbsp;
+  <a href="https://www.postgresql.org/"><img width="48px" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>&nbsp;
+  <a href="https://www.sqlite.org/"><img width="48px" src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>&nbsp;
+  <a href="https://supabase.com/"><img width="48px" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>&nbsp;
+  <a href="https://www.mongodb.com/"><img width="48px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+</p>
+
+**💻 Languages**
+
+<p align="left">
+  <a href="https://www.python.org/"><img width="48px" src="https://skillicons.dev/icons?i=python" alt="Python" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img width="48px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="48px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>&nbsp;
+  <a href="https://cplusplus.com/"><img width="48px" src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>&nbsp;
+  <a href="https://dotnet.microsoft.com/"><img width="48px" src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="48px" src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+</p>
 
 ---
 
@@ -104,5 +124,7 @@ I'm an **AI & Software Engineer** based in Ho Chi Minh City, Vietnam — focused
 ---
 
 <div align="center">
+
+⭐ If you find my projects useful, feel free to star them!
 
 </div>

@@ -28,50 +28,132 @@ I'm an **AI & Software Engineer** based in Ho Chi Minh City, Vietnam — focused
 ---
 
 ## 🛠️ Tech Stack
-
-**🧠 AI / ML**
-
-<p align="left">
-  <a href="https://www.python.org/"><img width="48px" src="https://skillicons.dev/icons?i=python" alt="Python" /></a>&nbsp;
-  <a href="https://pytorch.org/"><img width="48px" src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>&nbsp;
-  <a href="https://www.tensorflow.org/"><img width="48px" src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a>&nbsp;
-  <a href="https://scikit-learn.org/"><img width="48px" src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" /></a>&nbsp;
-  <a href="https://opencv.org/"><img width="48px" src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" /></a>&nbsp;
-  <a href="https://fastapi.tiangolo.com/"><img width="48px" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
-</p>
-
-**🔧 Frameworks & Tools**
-
-<p align="left">
-  <a href="https://www.docker.com/"><img width="48px" src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>&nbsp;
-  <a href="https://git-scm.com/"><img width="48px" src="https://skillicons.dev/icons?i=git" alt="Git" /></a>&nbsp;
-  <a href="https://www.linux.org/"><img width="48px" src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>&nbsp;
-  <a href="https://code.visualstudio.com/"><img width="48px" src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /></a>&nbsp;
-  <a href="https://github.com/"><img width="48px" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;
-  <a href="https://www.gnu.org/software/bash/"><img width="48px" src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
-</p>
-
-**☁️ Cloud & Backend**
-
-<p align="left">
-  <a href="https://aws.amazon.com/"><img width="48px" src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>&nbsp;
-  <a href="https://nginx.org/"><img width="48px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>&nbsp;
-  <a href="https://www.postgresql.org/"><img width="48px" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>&nbsp;
-  <a href="https://www.sqlite.org/"><img width="48px" src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>&nbsp;
-  <a href="https://supabase.com/"><img width="48px" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>&nbsp;
-  <a href="https://www.mongodb.com/"><img width="48px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
-</p>
-
-**💻 Languages**
-
-<p align="left">
-  <a href="https://www.python.org/"><img width="48px" src="https://skillicons.dev/icons?i=python" alt="Python" /></a>&nbsp;
-  <a href="https://www.typescriptlang.org/"><img width="48px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="48px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>&nbsp;
-  <a href="https://cplusplus.com/"><img width="48px" src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>&nbsp;
-  <a href="https://dotnet.microsoft.com/"><img width="48px" src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>&nbsp;
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="48px" src="https://skillicons.dev/icons?i=c" alt="C" /></a>
-</p>
+ 
+<div style="display: flex; align-items: flex-start;">
+<table align="left">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="LLM" width="48" height="48" />
+      <br>LLM / RAG
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" alt="LangChain" width="48" height="48" style="filter:invert(60%) sepia(80%) saturate(400%) hue-rotate(90deg)" />
+      <br>LangChain
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+      <br>VSCode
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Actions" width="65" height="65" />
+      <br>CI/CD
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ollama.svg" alt="Ollama" width="48" height="48" style="filter:invert(1)" />
+      <br>Ollama
+    </td>
+  </tr>
+</table>
+</div>
+<br clear="left"/>
 
 ---
 
@@ -124,6 +206,8 @@ I'm an **AI & Software Engineer** based in Ho Chi Minh City, Vietnam — focused
 ---
 
 <div align="center">
+
+*"I don't just build models — I build systems that work in production and create measurable impact."*
 
 ⭐ If you find my projects useful, feel free to star them!
 

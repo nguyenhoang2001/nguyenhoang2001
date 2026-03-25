@@ -207,8 +207,6 @@ I'm an **AI & Software Engineer** based in Ho Chi Minh City, Vietnam — focused
 
 <div align="center">
 
-*"I don't just build models — I build systems that work in production and create measurable impact."*
-
 ⭐ If you find my projects useful, feel free to star them!
 
 </div>
